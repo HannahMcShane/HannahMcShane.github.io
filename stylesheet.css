@@ -3,6 +3,9 @@ p {
 	text-align: justify;
 	
 	    font-style: shadow;
+
+    min-width: 150px;
+}
 }
 
 
