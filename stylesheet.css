@@ -9,7 +9,15 @@ header{
 		background-color: MediumOrchid;
 		padding: 20px;
 	
-		ul {
+		
+}
+
+
+body {
+background-color: lightblue;
+}
+
+	ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -19,15 +27,6 @@ header{
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
-
-		
-}
-
-
-body {
-background-color: lightblue;
-}
-
 
 ul { 
 	list-style-type: none;
